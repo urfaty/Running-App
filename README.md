@@ -18,9 +18,3 @@
 <div>
 
 
-NotetoSelf:
-editActionsForRowAt swipe left and delete
-deleteaction 
-addaction
-mvc yapısı
-pod install yapmak lazım çalıştırmadan önce
